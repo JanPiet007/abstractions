@@ -519,3 +519,13 @@
   id: bund-bundles
   name: bund_bundles
   symbol: BUND
+- name: safemoon_v1
+  id: sfm-safemoon
+  symbol: SFM
+  address: 0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3
+  decimals: 9
+- name: safemoon_v2
+  id: safemoon-safemoon
+  symbol: SFM
+  address: 0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5
+  decimals: 9
